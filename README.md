@@ -34,6 +34,7 @@ Patika Dev Profile: https://app.patika.dev/ezgikarali4
 ### ANSWER 2. ###
 
 Merge sort, önce diziyi eşit yarıya böler ve ardından bunları sıralı bir şekilde birleştirir.
+
 Merge sort first divides the array into equal halves and then combines them in a sorted manner.
 
     n=6
