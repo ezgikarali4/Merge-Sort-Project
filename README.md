@@ -20,8 +20,9 @@ Patika Dev Profile: https://app.patika.dev/ezgikarali4
     [16,21] [11] [8] [12,22]
      /   \    |    |   \   \ 
     [16] [21] [11] [8] [12] [22]
-    -Bölme işlemimiz bitti. Şimdi ise sıralı hale getire getire ayırdığımız şekilde birleştiriyoruz.
     
+    -Bölme işlemimiz bitti. Şimdi ise sıralı hale getire getire ayırdığımız şekilde birleştiriyoruz.
+
     [16] [21] [11] [8] [12] [22]
       \    /   |    |    \  /
       [16,21] [11] [8] [12,22]
